@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ShruthiJawaharlal/static/css/main.be8d06a7.chunk.css",
-    "main.js": "/ShruthiJawaharlal/static/js/main.9b98dd93.chunk.js",
-    "main.js.map": "/ShruthiJawaharlal/static/js/main.9b98dd93.chunk.js.map",
+    "main.css": "/ShruthiJawaharlal/static/css/main.8ed8032e.chunk.css",
+    "main.js": "/ShruthiJawaharlal/static/js/main.bdb5e3a3.chunk.js",
+    "main.js.map": "/ShruthiJawaharlal/static/js/main.bdb5e3a3.chunk.js.map",
     "runtime-main.js": "/ShruthiJawaharlal/static/js/runtime-main.d5b1d707.js",
     "runtime-main.js.map": "/ShruthiJawaharlal/static/js/runtime-main.d5b1d707.js.map",
     "static/css/2.09892a81.chunk.css": "/ShruthiJawaharlal/static/css/2.09892a81.chunk.css",
-    "static/js/2.df5563fe.chunk.js": "/ShruthiJawaharlal/static/js/2.df5563fe.chunk.js",
-    "static/js/2.df5563fe.chunk.js.map": "/ShruthiJawaharlal/static/js/2.df5563fe.chunk.js.map",
+    "static/js/2.17322852.chunk.js": "/ShruthiJawaharlal/static/js/2.17322852.chunk.js",
+    "static/js/2.17322852.chunk.js.map": "/ShruthiJawaharlal/static/js/2.17322852.chunk.js.map",
     "index.html": "/ShruthiJawaharlal/index.html",
-    "precache-manifest.0b9268ab2b583f54b5c5189a7760c089.js": "/ShruthiJawaharlal/precache-manifest.0b9268ab2b583f54b5c5189a7760c089.js",
+    "precache-manifest.ab175559a021186de845f2e712db6db8.js": "/ShruthiJawaharlal/precache-manifest.ab175559a021186de845f2e712db6db8.js",
     "service-worker.js": "/ShruthiJawaharlal/service-worker.js",
     "static/css/2.09892a81.chunk.css.map": "/ShruthiJawaharlal/static/css/2.09892a81.chunk.css.map",
-    "static/css/main.be8d06a7.chunk.css.map": "/ShruthiJawaharlal/static/css/main.be8d06a7.chunk.css.map",
-    "static/js/2.df5563fe.chunk.js.LICENSE.txt": "/ShruthiJawaharlal/static/js/2.df5563fe.chunk.js.LICENSE.txt",
+    "static/css/main.8ed8032e.chunk.css.map": "/ShruthiJawaharlal/static/css/main.8ed8032e.chunk.css.map",
+    "static/js/2.17322852.chunk.js.LICENSE.txt": "/ShruthiJawaharlal/static/js/2.17322852.chunk.js.LICENSE.txt",
     "static/media/CP.jpg": "/ShruthiJawaharlal/static/media/CP.a5f1cb4a.jpg",
     "static/media/CP.webp": "/ShruthiJawaharlal/static/media/CP.f1f30a18.webp",
     "static/media/DL.webp": "/ShruthiJawaharlal/static/media/DL.0780da40.webp",
@@ -36,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.d5b1d707.js",
     "static/css/2.09892a81.chunk.css",
-    "static/js/2.df5563fe.chunk.js",
-    "static/css/main.be8d06a7.chunk.css",
-    "static/js/main.9b98dd93.chunk.js"
+    "static/js/2.17322852.chunk.js",
+    "static/css/main.8ed8032e.chunk.css",
+    "static/js/main.bdb5e3a3.chunk.js"
   ]
 }
